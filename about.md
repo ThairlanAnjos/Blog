@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: thayrlan.me/about/
 ---
 
 Some information about you!
